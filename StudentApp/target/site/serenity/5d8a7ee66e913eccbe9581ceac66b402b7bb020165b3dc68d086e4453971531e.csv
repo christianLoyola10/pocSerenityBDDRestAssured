@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Students CRUD test","This test will create a new student","SUCCESS","2018-10-08T21:46:30.465-03:00[America/Sao_Paulo]","0.0","5.41"
+"Students CRUD test","Verify if the student was added to the application","SUCCESS","2018-10-08T21:46:36.461-03:00[America/Sao_Paulo]","0.0","1.7"
+"Students CRUD test","Update the user information and verify updated information","SUCCESS","2018-10-08T21:46:38.167-03:00[America/Sao_Paulo]","0.0","0.61"
+"Students CRUD test","Delete a student and verify if the student is deleted","SUCCESS","2018-10-08T21:46:38.79-03:00[America/Sao_Paulo]","0.0","0.35"

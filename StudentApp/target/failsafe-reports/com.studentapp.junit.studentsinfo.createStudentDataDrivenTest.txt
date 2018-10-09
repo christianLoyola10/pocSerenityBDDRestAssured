@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.studentapp.junit.studentsinfo.createStudentDataDrivenTest
+-------------------------------------------------------------------------------
+Tests run: 100, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.625 sec - in com.studentapp.junit.studentsinfo.createStudentDataDrivenTest
